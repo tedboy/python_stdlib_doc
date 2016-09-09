@@ -65,7 +65,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Python Standard Library'
+project = u'Python Standard Library Doc'
 copyright = u'2016'
 author = u''
 
@@ -178,7 +178,7 @@ html_theme = 'sphinx_rtd_theme'
 # documentation.
 #
 html_theme_options = {
-    'collapse_navigation': True,
+    'collapse_navigation': False,
     # 'navigation_depth': 4,
 }
 

@@ -2,8 +2,6 @@ Ch 31 - 37
 """"""""""
 .. toctree::
     :maxdepth: 1
-    :caption: Contents
-    :name: 31to41
 
     31_modules/31.rst
     32_python_lang_serv/32.rst
