@@ -7,6 +7,7 @@ Python Standard Library
     Created this for myself since I really enjoy the layout of ``sphinx_rtd_theme`` and Sphinx's ``autodoc`` capability.
 
 - `Official page's TOC <./official_page.html>`__
+- `Expaned TOC <./toc_expanded.html>`__
 
 .. toctree::
    :maxdepth: 2
