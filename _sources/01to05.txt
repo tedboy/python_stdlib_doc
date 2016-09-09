@@ -1,0 +1,10 @@
+Ch 01 - 05
+""""""""""
+.. toctree::
+    :maxdepth: 1
+
+    01_intro/01.rst
+    02_builtin_functions/02.rst
+    03_builtin_func_nonessential/03.rst
+    04_builtin_constants/04.rst
+    05_builtin_types/05.rst
